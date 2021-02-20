@@ -1,0 +1,1363 @@
+{
+    "simpsons": {
+        "season1": [{
+                "title": "Simpsons Roasting on an Open Fire",
+                "description": "The family is forced to spend all of their savings to get Bart's new tattoo removed, and with no money for Christmas, Homer is forced to become a store Santa."
+            },
+            {
+                "title": "Bart the Genius",
+                "description": "Bart ends up at a school for gifted children after cheating on an IQ test."
+            },
+            {
+                "title": "Homer's Odyssey",
+                "description": "After losing his job, Homer contemplates ending it all, until he discovers a new life path as a safety advocate."
+            },
+            {
+                "title": "There's No Disgrace Like Home",
+                "description": "After being embarrassed by the rest of the family at a company picnic, Homer becomes obsessed with improving their behavior towards each other."
+            },
+            {
+                "title": "Bart the General",
+                "description": "After being beaten up by Nelson Muntz one too many times, Bart turns to Grampa for help, and soon leads a rebellion against the school bully."
+            },
+            {
+                "title": "Moaning Lisa",
+                "description": "A depressed Lisa's spirit is lifted when she meets a jazz-man, Bleeding Gums Murphy."
+            },
+            {
+                "title": "The Call of the Simpsons",
+                "description": "Homer takes the family camping, but it soon becomes a misadventure when they lose their equipment and Homer is mistaken for Bigfoot."
+            },
+            {
+                "title": "The Telltale Head",
+                "description": "Bart gets more than he bargained for when he saws the head off a statue of the town's founder."
+            },
+            {
+                "title": "Life on the Fast Lane",
+                "description": "Marge contemplates an affair with a handsome bowling instructor."
+            },
+            {
+                "title": "Homer's Night Out",
+                "description": "After a photograph of Homer canoodling with an exotic dancer is distributed throughout Springfield, he finds himself kicked out of the house by Marge."
+            },
+            {
+                "title": "The Crepes of Wrath",
+                "description": "Bart is sent to France on a student exchange program, where he's treated like a slave; An Albanian student takes Bart's place in the family."
+            },
+            {
+                "title": "Krusty Gets Busted",
+                "description": "Homer witnesses a robbery at the Kwik-E-Mart, where the culprit is a man dressed like Bart's hero, Krusty the Clown. But there's more than meets the eye?"
+            },
+            {
+                "title": "Some Enchanted Evening",
+                "description": "Homer and Marge enjoy a night on the town, leaving the kids with a diabolical babysitter, with a surprising secret."
+            }
+        ],
+        "season2": [{
+                "title": "Bart Gets an F",
+                "description": "Mrs. Krabappel, fed up with Bart's lackadaisical approach to his studies, gives him an ultimatum:  shape up or repeat the fourth grade."
+            },
+            {
+                "title": "Simpson and Delilah",
+                "description": "Homer lies on a medical insurance form in order to obtain a miracle hair restoring drug."
+            },
+            {
+                "title": "Treehouse of Horror",
+                "description": "The Simpsons move into a cursed house, then are abducted by aliens, before Homer is ensconced in a tale by Edgar Allen Poe."
+            },
+            {
+                "title": "Two Cars in Every Garage and Three Eyes on Every Fish",
+                "description": "After the power plant experiences bad publicity and is threatened with closure, Mr. Burns decides to run for Governor in order to have power over the law."
+            },
+            {
+                "title": "Dancin' Homer",
+                "description": "Homer's heckling of the Springfield Isotopes baseball team during one of their games inadvertently leads to his appointment as the new team mascot."
+            },
+            {
+                "title": "Dead Putting Society",
+                "description": "In an attempt to show up Ned Flanders, Homer pits Bart against Ned's son, Todd, in a miniature golf competition."
+            },
+            {
+                "title": "Bart vs. Thanksgiving",
+                "description": "On Thanksgiving, Bart runs away after fighting with Lisa."
+            },
+            {
+                "title": "Bart the Daredevil",
+                "description": "After seeing a motorcycle daredevil at a monster truck show, Bart becomes a death-defying daredevil skateboarder."
+            },
+            {
+                "title": "Itchy and Scratchy and Marge",
+                "description": "Marge becomes a crusader against cartoon violence after watching The Itchy and Scratchy Show."
+            },
+            {
+                "title": "Bart Gets Hit by a Car",
+                "description": "While skateboarding down the street, Bart is hit by a car driven by Mr. Burns. Homer turns down Mr. Burns' token offer of $100, and instead hires ambulance-chaser Lionel Hutz to bring an outrageous lawsuit against the millionaire."
+            },
+            {
+                "title": "One Fish, Two Fish, Blowfish, Blue Fish",
+                "description": "After apparently consuming poison blowfish, Homer is told that he only has 24 hours to live."
+            },
+            {
+                "title": "The Way We Was",
+                "description": "Homer and Marge tell the story of how they met and fell in love in high school."
+            },
+            {
+                "title": "Homer vs. Lisa and the 8th Commandment",
+                "description": "Homer gets a crooked cable guy to install free cable in the Simpson home, and as a result, Lisa faces an ethical crisis over her family's stealing."
+            },
+            {
+                "title": "Principal Charming",
+                "description": "Homer gets a crooked cable guy to install free cable in the Simpson home, and as a result, Lisa faces an ethical crisis over her family's stealing."
+            },
+            {
+                "title": "Oh Brother, Where Art Thou?",
+                "description": "After Grampa is hospitalized, he reveals that Homer has a half-brother, and the family set out to find him."
+            },
+            {
+                "title": "Bart's Dog Gets an F",
+                "description": "After an uncontrollable Santa's Little Helper destroys several important Simpson possessions, Homer announces that he will be thrown out of the house unless he completes obedience training."
+            },
+            {
+                "title": "Old Money",
+                "description": "After Grampa's new girlfriend dies and leaves him $106,000 in her will, he tries to decide what to do with it."
+            },
+            {
+                "title": "Brush with Greatness",
+                "description": "After becoming trapped in a water slide, Homer decides to go on a diet, while Marge enrolls in an art class and is soon commissioned to paint a portrait of Mr. Burns."
+            },
+            {
+                "title": "Lisa's Substitute",
+                "description": "Lisa has a crush on her substitute teacher; Bart decides to run for class president."
+            },
+            {
+                "title": "The War of the Simpsons",
+                "description": "Homer must decide which is more important:  completing counseling to save his marriage or skipping out to catch a legendary catfish. Meanwhile, at home, Bart and Lisa take advantage of Grampa's ignorance of the house rules."
+            },
+            {
+                "title": "Three Men and a Comic Book",
+                "description": "Bart, Milhouse and Martin each pitch in to buy an expensive comic book, which soon has a disastrous effect on their friendship."
+            },
+            {
+                "title": "Blood Feud",
+                "description": "Bart saves Mr. Burns's life. But Homer becomes enraged when Mr. Burns doesn't return the favor by sending the Simpsons what he considers to be an appropriate \"thank you\" gift."
+            }
+        ],
+        "season3": [{
+                "title": "Stark Raving Dad",
+                "description": "Homer accidentally lands in a mental hospital and ends up sharing a room with a white man who thinks he is Michael Jackson."
+            },
+            {
+                "title": "Mr. Lisa Goes to Washington",
+                "description": "After winning a political essay contest, Lisa is invited to Washington, D.C., but she soon becomes upset after discovering how policy-making really works."
+            },
+            {
+                "title": "When Flanders Failed",
+                "description": "After wishing for Flanders to lose his business, Homer discovers that his neighbor is actually about to go bankrupt and decides to help him out."
+            },
+            {
+                "title": "Bart the Murderer",
+                "description": "After having a horrible day, Bart gets a job tending bar for a group of gangsters and becomes the prime suspect when Principal Skinner mysteriously disappears."
+            },
+            {
+                "title": "Homer Defined",
+                "description": "Homer is a hero after averting a nuclear meltdown that he nearly caused, but he doesn't want to tell anyone that he stopped it completely by accident."
+            },
+            {
+                "title": "Like Father, Like Clown",
+                "description": "Bart and Lisa try to reunite Krusty the Clown with his father."
+            },
+            {
+                "title": "Treehouse of Horror II",
+                "description": "The Simpson family receives a severed monkey's paw which can grant wishes, Bart gains magical powers which he uses to turn Homer into a Jack-in-the-box, and Mr. Burns uses Homer's brain to create a robot."
+            },
+            {
+                "title": "Lisa's Pony",
+                "description": "Homer buys Lisa a pony that the family can ill afford."
+            },
+            {
+                "title": "Saturdays of Thunder",
+                "description": "After Homer fails a fathering test, he decides to help Bart build his Soap Box Derby racer."
+            },
+            {
+                "title": "Flaming Moe's",
+                "description": "Moe claims a drink that Homer invented is his own, with the drink making the bar a local hot spot, but threatens his friendship with Homer."
+            },
+            {
+                "title": "Burns Verkaufen der Kraftwerk",
+                "description": "Burns decides to retire and sells the power plant to a German consortium for an exorbitant price. Homer's laziness and inefficiency are quickly exposed by his new bosses, and he is laid off."
+            },
+            {
+                "title": "I Married Marge",
+                "description": "As Marge goes to the doctor for a pregnancy test, Homer tells the children of the events leading up to his marriage, and Bart's birth."
+            },
+            {
+                "title": "Radio Bart",
+                "description": "After Bart receives a microphone which can transmit through radios, he decides to pull a series of pranks and eventually convinces the town that a boy has fallen down a well."
+            },
+            {
+                "title": "Lisa the Greek",
+                "description": "Homer uses Lisa (and her prognostic skills) to help him bet on football games."
+            },
+            {
+                "title": "Homer Alone",
+                "description": "While Marge spends a couple of days at Rancho Relaxo after she has a breakdown, Bart and Lisa stay with Patty and Selma, and Homer stays at home to take care of Maggie."
+            },
+            {
+                "title": "Bart the Lover",
+                "description": "After Mrs. Krabappel gives Bart a month of detention, he gets his revenge by responding to her newspaper singles ad. Meanwhile, Marge suggests Homer to start a swear jar to stop him cursing."
+            },
+            {
+                "title": "Homer at the Bat",
+                "description": "Homer and his co-workers qualify for the plant softball team's league final, but Mr. Burns hires nine professional MLB players in order to win a $1 million bet."
+            },
+            {
+                "title": "Separate Vocations",
+                "description": "The results of a standardized test steer Bart in the direction of law and order at Springfield Elementary School. However, Lisa becomes so depressed by her results that she turns to juvenile delinquency."
+            },
+            {
+                "title": "Dog of Death",
+                "description": "The Simpsons wind up regretting paying for an expensive surgery for Santa's Little Helper. He then runs away from home, winds up in the animal shelter, and is adopted by Mr. Burns to become an attack dog."
+            },
+            {
+                "title": "Colonel Homer",
+                "description": "Homer becomes the manager of a beautiful young country singer and finds himself almost attracted to her, sparking Marge's jealousy."
+            },
+            {
+                "title": "Black Widower",
+                "description": "Sideshow Bob gets out of jail and plots to take his revenge on Bart by marrying his Aunt Selma and killing her."
+            },
+            {
+                "title": "The Otto Show",
+                "description": "After Otto loses his job as school bus driver because he does not have a license, Bart convinces Homer and Marge to let Otto stay with them until he gets back on his feet."
+            },
+            {
+                "title": "Bart's Friend Falls in Love",
+                "description": "Milhouse falls in love with Samantha, a new transfer student, and Bart becomes jealous of all the time they are spending together. Meanwhile, Homer orders a subliminal weight loss tape, but is given a vocabulary builder by mistake."
+            },
+            {
+                "title": "Brother, Can You Spare Two Dimes?",
+                "description": "After Homer \"wins\" a $2000 settlement with the plant for radiation affecting his sperm count, his brother Herb comes to Springfield with an idea that could help him get his fortune back."
+            }
+        ],
+        "season4": [{
+                "title": "Kamp Krusty",
+                "description": "Bart and Lisa attend \"Kamp Krusty\" but it is nothing like they thought it would be; Homer's hair grows back and he loses weight while the kids are away."
+            },
+            {
+                "title": "A Streetcar Named Marge",
+                "description": "Marge stars in a musical adaptation of A Streetcar Named Desire, but is angry with Homer's lack of interest; Maggie squares off with her strict new daycare owner."
+            },
+            {
+                "title": "Homer the Heretic",
+                "description": "After skipping church one week, Homer decides that he is never going back. However, when a calamity occurs, it takes the combined efforts of a number of people from different faiths to save him."
+            },
+            {
+                "title": "Lisa the Beauty Queen",
+                "description": "Lisa enters the Little Miss Springfield pageant."
+            },
+            {
+                "title": "Treehouse of Horror III",
+                "description": "An evil Krusty the Clown doll tries to kill Homer; Marge is captured by a giant ape who falls in love with her; Bart inadvertently raises the dead."
+            },
+            {
+                "title": "Itchy & Scratchy:  The Movie",
+                "description": "With Bart continually getting in trouble, Homer bans him from seeing the new Itchy & Scratchy movie."
+            },
+            {
+                "title": "Marge Gets a Job",
+                "description": "When Marge takes a job at the power plant, Mr. Burns falls in love with her."
+            },
+            {
+                "title": "New Kid on the Block",
+                "description": "Bart develops a crush on his new neighbor, only to discover that she's dating Jimbo Jones; Homer sues an all-you-can-eat restaurant after he's kicked out."
+            },
+            {
+                "title": "Mr. Plow",
+                "description": "Homer opens a snow plow business only to have his best friend Barney open a rival outfit, with commercials by Linda Ronstadt. Homer sends Barney into an avalanche, then feels guilty and saves his life."
+            },
+            {
+                "title": "Lisa's First Word",
+                "description": "While trying to coax Maggie into saying her first word, Homer and Marge talk about how Lisa spoke hers."
+            },
+            {
+                "title": "Homer's Triple Bypass",
+                "description": "Years of poor eating habits catch up with Homer when he suffers a massive heart attack, but the family can't afford the triple bypass operation he needs."
+            },
+            {
+                "title": "Marge vs. the Monorail",
+                "description": "After receiving a considerable donation of money, Springfield builds a monorail system with Homer as the conductor, unaware they've just boarded a one-way train to Hell."
+            },
+            {
+                "title": "Selma's Choice",
+                "description": "Selma starts to feel broody, but after taking Bart and Lisa to Duff Gardens, she changes her mind."
+            },
+            {
+                "title": "Brother from the Same Planet",
+                "description": "When Bart gets tired of Homer's horrible parenting skills, he enrolled in the \"Bigger Brother\" program where he's assigned a fantastic role model."
+            },
+            {
+                "title": "I Love Lisa",
+                "description": "Lisa gives Ralph a Valentine's card out of pity and then regrets it when he develops a crush on her. They attend Krusty's 29th anniversary show, and perform together in the Presidents' Day pageant."
+            },
+            {
+                "title": "Duffless",
+                "description": "After Homer is arrested for DUI, and loses his driver's license, he is put to the ultimate test when Marge pressures him to give up beer for a month."
+            },
+            {
+                "title": "Last Exit to Springfield",
+                "description": "Homer becomes union leader and leads a company strike when Mr. Burns takes away the company dental plan."
+            },
+            {
+                "title": "So It's Come to This:  A Simpsons Clip Show",
+                "description": "Bart's April fools prank results in a huge explosion that seriously injures the Simpsons patriarch."
+            },
+            {
+                "title": "The Front",
+                "description": "Bart and Lisa decide to write their own episodes of the \"Itchy and Scratchy\" show after they begin to grow bored with the current scripts."
+            },
+            {
+                "title": "Whacking Day",
+                "description": "Marge attempts to home school Bart after he is expelled from Springfield Elementary. Meanwhile, Lisa protests a barbaric local holiday centered around clubbing snakes to death."
+            },
+            {
+                "title": "Marge in Chains",
+                "description": "A misunderstanding leads to Marge being imprisoned for shoplifting, with her absence soon descending the family, and eventually, the town into chaos."
+            },
+            {
+                "title": "Krusty Gets Kancelled",
+                "description": "A massive advertising blitz announces the arrival of something named \"Gabbo.\" Eventually, Gabbo is revealed to be a Howdy Doody-esque dummy, whose sensational success causes Krusty the Clown's show to be canceled."
+            }
+        ],
+        "season5": [{
+                "title": "Homer's Barbershop Quartet",
+                "description": "After the kids find a record with Homer's picture on it, he recalls the story of how he achieved fame in the 1980s with his barbershop quartet, The Be Sharps."
+            },
+            {
+                "title": "Cape Feare",
+                "description": "After being released from prison on parole, Sideshow Bob plots to murder Bart."
+            },
+            {
+                "title": "Homer Goes to College",
+                "description": "After being released from prison on parole, Sideshow Bob plots to murder Bart."
+            },
+            {
+                "title": "Rosebud",
+                "description": "After his birthday party goes wrong, Mr. Burns begins to want his childhood toy, a teddy bear named Bobo; Homer finds that Maggie is in possession of the doll."
+            },
+            {
+                "title": "Treehouse of Horror IV",
+                "description": "Homer sells his soul to the Devil for a donut, Bart contends with a gremlin on the side of the school bus which only he can see, and the family discovers that Mr. Burns is a vampire."
+            },
+            {
+                "title": "Marge on the Lam",
+                "description": "A girls' night out turns into a high speed chase when Marge learns her friend is driving a stolen car."
+            },
+            {
+                "title": "Bart's Inner Child",
+                "description": "Brad Goodman, a self-help guru, encourages Springfield to act more like Bart, with disastrous results."
+            },
+            {
+                "title": "Boy Scoutz 'n the Hood",
+                "description": "After joining the Junior Campers while on a sugar high, Bart reluctantly invites Homer to accompany him on the group's annual father-son rafting trip, which soon goes awry."
+            },
+            {
+                "title": "The Last Temptation of Homer",
+                "description": "Homer's marriage is in trouble when he develops an attraction to a new co-worker."
+            },
+            {
+                "title": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
+                "description": "Mr. Burns builds a casino when Springfield decides to legalize gambling, with Marge becoming addicted to the slot machines."
+            },
+            {
+                "title": "Homer the Vigilante",
+                "description": "An outbreak of burglaries inspires Homer to lead a vigilante group."
+            },
+            {
+                "title": "Bart Gets Famous",
+                "description": "Bart becomes an overnight sensation as the \"I didn't do it\" boy on Krusty the Clown's show."
+            },
+            {
+                "title": "Homer and Apu",
+                "description": "Apu moves in with the Simpsons after losing his job when Homer gets ill from the contaminated food; James Woods takes over the Kwik-E-Mart."
+            },
+            {
+                "title": "Lisa vs. Malibu Stacy",
+                "description": "Lisa leads a protest against a talking doll which she believes is sexist."
+            },
+            {
+                "title": "Deep Space Homer",
+                "description": "In an effort to increase the dismal television ratings for their space launches, NASA decides to send an ordinary man into space, and Homer is chosen for the task."
+            },
+            {
+                "title": "Homer Loves Flanders",
+                "description": "After Flanders invites Homer to a football game, the pair become friends, but Homer's possessiveness and loutish behaviour slowly turns Ned against him."
+            },
+            {
+                "title": "Bart Gets an Elephant",
+                "description": "After Bart receives an elephant as a prize for calling in to a radio station, the animal proves to be too costly to care for and Homer decides to sell it."
+            },
+            {
+                "title": "Burns' Heir",
+                "description": "After coming close to death, Mr. Burns decides than it's time to find an heir to his empire, and chooses Bart because of his truly devious nature."
+            },
+            {
+                "title": "Sweet Seymour Skinner's Baadasssss Song",
+                "description": "Bart accidentally gets Principal Skinner fired on inspection day, with Ned Flanders taking over as his replacement."
+            },
+            {
+                "title": "The Boy Who Knew Too Much",
+                "description": "Bart witnesses the alleged assault of a waiter by Mayor Quimby's nephew, but coming forward will mean admitting to skipping class, and face the consequences."
+            },
+            {
+                "title": "Lady Bouvier's Lover",
+                "description": "Grampa falls in love with Marge's mother, but must compete with Mr. Burns for her heart."
+            },
+            {
+                "title": "Secrets of a Successful Marriage",
+                "description": "Homer begins teaching a class on how to have a successful marriage, but jeopardizes his own marriage by revealing secrets about himself and Marge."
+            }
+        ],
+        "season6": [{
+                "title": "Bart of Darkness",
+                "description": "After he breaks his leg and becomes confined to his room, Bart begins spying on the neighbors with his telescope, and suspects Ned of murdering Maude."
+            },
+            {
+                "title": "Lisa's Rival",
+                "description": "Lisa is jealous when a new girl in class is smarter than she is. Meanwhile, Homer obtains a massive amount of sugar."
+            },
+            {
+                "title": "Another Simpsons Clip Show",
+                "description": "The family recalls past tales of lost love."
+            },
+            {
+                "title": "Itchy & Scratchy Land",
+                "description": "A family vacation to Itchy & Scratchy Land turns disastrous when the robots malfunction and turn on the tourists."
+            },
+            {
+                "title": "Sideshow Bob Roberts",
+                "description": "Sideshow Bob is released from prison and runs for Mayor of Springfield. When he wins the election, Bart and Lisa suspect foul play and are determined to expose Bob's corruption."
+            },
+            {
+                "title": "Treehouse of Horror V",
+                "description": "The family's job at Mr. Burns' country estate goes awry when Homer goes mad; Homer's attempt to repair a toaster results in inadvertent time travel; The school staff turn cannibalistic."
+            },
+            {
+                "title": "Bart's Girlfriend",
+                "description": "Bart falls for Reverend Lovejoy's daughter and is surprised when she becomes a bad influence on him."
+            },
+            {
+                "title": "Lisa on Ice",
+                "description": "Homer gives all his attention to Bart because he is the star of his hockey team, which makes Lisa jealous. But when a rival team discovers that she is an excellent goalie, Bart suddenly has a rival for Homer's attention."
+            },
+            {
+                "title": "Homer Badman",
+                "description": "After a series of misunderstandings, Homer is labeled a pervert, and must try to clear his name."
+            },
+            {
+                "title": "Grampa vs. Sexual Inadequacy",
+                "description": "Homer and Abe hit the road to sell Abe's miraculous aphrodisiac."
+            },
+            {
+                "title": "Fear of Flying",
+                "description": "Marge goes into therapy to cure her of her traumatizing fear of flying."
+            },
+            {
+                "title": "Homer the Great",
+                "description": "Homer becomes a member of a mysterious organization called the Stonecutters and is heralded as \"the chosen one \"."
+            },
+            {
+                "title": "And Maggie Makes Three",
+                "description": "Homer recounts the story of Maggie's birth when the kids ask why there are no photos of her in the family album."
+            },
+            {
+                "title": "Bart's Comet",
+                "description": "Bart discovers a comet that is on a collision course with Springfield."
+            },
+            {
+                "title": "Homie the Clown",
+                "description": "Homer becomes a Krusty the Clown stand-in, but is mistaken for the real Krusty by the Springfield mafia."
+            },
+            {
+                "title": "Bart vs. Australia",
+                "description": "After he makes a collect call to Australia and refuses to pay for it, Bart sparks an international incident, with the Simpsons forced to travel to the country in order to repair political relations."
+            },
+            {
+                "title": "Homer vs. Patty and Selma",
+                "description": "Desperate for money, Homer takes a loan from Patty and Selma; Bart discovers a natural talent for ballet."
+            },
+            {
+                "title": "A Star Is Burns",
+                "description": "The citizens of Springfield host their very own film festival, with a popular movie critic from New York arriving to judge."
+            },
+            {
+                "title": "Lisa's Wedding",
+                "description": "A fortune teller gives Lisa a look at her wedding in the year 2010."
+            },
+            {
+                "title": "Two Dozen and One Greyhounds",
+                "description": "Santa's Little Helper's new mate has puppies, and Mr. Burns schemes to steal them and make them into a coat."
+            },
+            {
+                "title": "The PTA Disbands",
+                "description": "Marge fills in for Mrs. Krabappel during a teachers' strike."
+            },
+            {
+                "title": "'Round Springfield",
+                "description": "When Bart is hospitalized, Lisa runs into her hero, Bleeding Gums Murphy, who is also a patient. However, when he dies soon after, she is devastated."
+            },
+            {
+                "title": "The Springfield Connection",
+                "description": "Marge deals with corruption and crime when she joins the Springfield police force."
+            },
+            {
+                "title": "Lemon of Troy",
+                "description": "When a group of Shelbyville kids steal Springfield's sacred lemon tree, Bart and his friends venture there to get the tree back."
+            },
+            {
+                "title": "Who Shot Mr. Burns? Part One",
+                "description": "After Mr. Burns steals oil from Springfield Elementary, an unknown person, seemingly in retaliation, shoots him."
+            }
+        ],
+        "season7": [{
+                "title": "Who Shot Mr. Burns? Part Two",
+                "description": "Mr. Burns is laying in the hospital while the investigation into his shooterbegins, every citizen has motivation, but it's Simpson DNA that has been found."
+            },
+            {
+                "title": "Radioactive Man",
+                "description": "Milhouse is cast as Radioactive Man's sidekick in a Hollywood production of the comic book."
+            },
+            {
+                "title": "Home Sweet Home-Dum-Diddly Doodily",
+                "description": "Marge and Homer lose custody of the kids, who are sent to live at the Flanders' house."
+            },
+            {
+                "title": "Bart Sells His Soul",
+                "description": "Bart casually sells his soul to Milhouse for five dollars but later regrets it. Moe converts his dank bar into a fun family restaurant."
+            },
+            {
+                "title": "Lisa the Vegetarian",
+                "description": "A trip to a local petting zoo convinces Lisa to give up meat, despite excessive pressure to convince her not to do so."
+            },
+            {
+                "title": "Treehouse of Horror VI",
+                "description": " A freak lightning storm causes giant advertising mascots to come to life; The children are terrorized by Groundskeeper Willie in their dreams; Homer finds himself trapped in another dimension."
+            },
+            {
+                "title": "King Size Homer",
+                "description": "Homer intentionally gains more weight in order to qualify for disability and work from home, but soon realizes that being morbidly obese comes with its own problems."
+            },
+            {
+                "title": "Mother Simpson",
+                "description": "After faking his own death, Homer is reunited with his mother, who harbors a deep secret."
+            },
+            {
+                "title": "Sideshow Bob's Last Gleaming",
+                "description": "Sideshow Bob again escapes from prison and takes control of a TV screen at an air show, demanding all television stations immediately go off the air."
+            },
+            {
+                "title": "The Simpsons 138th Episode Spectacular!",
+                "description": "Troy McClure hosts a retrospective of the first 137 episodes of The Simpsons."
+            },
+            {
+                "title": "Marge Be Not Proud",
+                "description": "Marge's relationship with Bart is strained when he is caught shoplifting before Christmas."
+            },
+            {
+                "title": "Team Homer",
+                "description": "Homer starts a bowling team with Moe, Apu and Otto, but when Mr. Burns discovers the team was funded with his money, he insists on joining. Meanwhile, Springfield Elementary introduces uniforms."
+            },
+            {
+                "title": "Two Bad Neighbors",
+                "description": "Former President George Bush and his wife, Barbara, move into the Simpsons' neighborhood and soon clash with Bart and Homer."
+            },
+            {
+                "title": "Scenes from the Class Struggle in Springfield",
+                "description": "After buying a Chanel suit at a bargain price, Marge finds herself invited to a country club by a former schoolmate. Taken in by the opulence of the place, she is soon overcome by a desperation to fit in."
+            },
+            {
+                "title": "Bart the Fink",
+                "description": "Krusty the Clown is left almost broke after Bart inadvertently rats him out to the IRS, forcing Krusty to take drastic action."
+            },
+            {
+                "title": "Lisa the Iconoclast",
+                "description": "Lisa may figure out what to do when she discovers that Springfield's founding father was actually a murderous thief while researching for an essay."
+            },
+            {
+                "title": "Homer the Smithers",
+                "description": "When Smithers is forced to take a vacation, he appoints Homer as his temporary replacement."
+            },
+            {
+                "title": "The Day the Violence Died",
+                "description": "Bart and Lisa meet a homeless person who claims to have created Itchy, the mouse from their favorite cartoon series, \"Itchy & Scratchy\"."
+            },
+            {
+                "title": "A Fish Called Selma",
+                "description": "Washed-up movie star Troy McClure starts dating Selma in an attempt to silence bizarre rumors about his personal life and resuscitate his career."
+            },
+            {
+                "title": "Bart on the Road",
+                "description": "Bart makes a fake driver's license and takes Milhouse, Martin and Nelson on a huge road trip; Lisa spends time with Homer at the power plant."
+            },
+            {
+                "title": "22 Short Films About Springfield",
+                "description": "A series of vignettes highlights a day in the life of various Springfield residents."
+            },
+            {
+                "title": "Raging Abe Simpson and His Grumbling Grandson in 'The Curse of the Flying Hellfish' ",
+                "description": "Another member of Grampa Simpson's WWII platoon dies, leaving only him and Mr. Burns. Years earlier, the men stole a number of priceless masterpieces from Nazi Germany, and now Mr. Burns aims to ensure he is the one to inherit them."
+            },
+            {
+                "title": "Much Apu About Nothing",
+                "description": "Anti-immigration fever sweeps Springfield, which threatens to lead to the deportation of Apu, until Homer decides to reject the mob mentality and help him become a legal citizen."
+            },
+            {
+                "title": "Homerpalooza",
+                "description": "Determined to prove he is still cool, Homer takes Bart and Lisa to the Hullabalooza music festival, where he finds he has a talent for being shot in the stomach, and joins the festival's freak show."
+            },
+            {
+                "title": "Summer of 4’2\" ",
+                "description": "After realizing how unpopular she is, a disillusioned Lisa sees the vacation to Ned Flanders' beach house as an opportunity to reinvent herself."
+            }
+        ],
+        "season8": [{
+                "title": "Treehouse of Horror VII",
+                "description": "Bart discovers his Siamese twin in the attic; Lisa becomes a God after she accidentally creates life in a science fair project; Kang and Kodos plot to conquer the planet."
+            },
+            {
+                "title": "You Only Move Twice",
+                "description": "After moving to another town for a new job, Homer must decide whether or not to stay when the family have a hard time with the transfer."
+            },
+            {
+                "title": "The Homer They Fall",
+                "description": "Homer becomes a boxer after Moe discovers his amazing ability to take a punch."
+            },
+            {
+                "title": "Burns, Baby Burns",
+                "description": "The Simpsons try to reunite Homer's boss, Mr. Burns, with Larry, Burns' long-lost son."
+            },
+            {
+                "title": "Bart After Dark",
+                "description": "Marge leads a crusade against a local burlesque house after she discovers Bart working there."
+            },
+            {
+                "title": "A Milhouse Divided",
+                "description": " When Kirk and Luann hit a roadblock in their marriage, Luann announces she's getting a divorce, causing Homer to worry about his own marriage."
+            },
+            {
+                "title": "Lisa's Date with Density",
+                "description": "Lisa develops a crush on Nelson, and tries to reform him; Homer gets an autodialer and decides to make easy money with a telemarketing scam."
+            },
+            {
+                "title": "Hurricane Neddy",
+                "description": "After a hurricane hits Springfield and destroys Ned Flanders' house, he suffers a breakdown and is forced to confront problems from his childhood."
+            },
+            {
+                "title": "El Viaje Misterioso de Nuestro Jomer",
+                "description": "At Springfield's annual chili cook-off, Homer eats a spicy concoction containing hallucinogenic peppers from Guatemala, and subsequently has a vision which makes him doubt Marge is his soul mate."
+            },
+            {
+                "title": "The Springfield Files",
+                "description": "Special Agents Mulder and Scully arrive in Springfield after Homer claims to have seen an alien."
+            },
+            {
+                "title": "The Twisted World of Marge Simpson",
+                "description": "Marge enters the pretzel vending business, but when she fails, Homer recruits some help from the mob."
+            },
+            {
+                "title": "Mountain of Madness",
+                "description": "Homer and Mr. Burns get trapped in a snowed-in cabin during a company retreat."
+            },
+            {
+                "title": "Simpsoncalifragilisticexpiala(Annoyed Grunt)cious",
+                "description": "Marge is stressed from motherhood and hired a British nanny to help out around the house, and to everyone at Rosie, she teaches Bart and Lisa how to behave."
+            },
+            {
+                "title": "The Itchy & Scratchy & Poochie Show",
+                "description": "Krusty becomes alarmed at the flagging ratings for \"The Itchy & Scratchy Show\" and demands it be corrected. The producers decide to introduce a new character named Poochie, a rapping cartoon dog that is supposed to become friends with Itchy and Scratchy."
+            },
+            {
+                "title": "Homer's Phobia",
+                "description": "After Marge befriends John, a gay store owner, Homer worries that his presence will have a negative effect on Bart's sexuality."
+            },
+            {
+                "title": "Brother from Another Series",
+                "description": "Grudge against his brother Side Show Bob, Cecil tries to kill Springfield with hydro-electric dam explosion which was fonded hollowed structure by him. Side Show Bob also has a good Side."
+            },
+            {
+                "title": "My Sister, My Sitter",
+                "description": "Bart is outraged when Lisa becomes his babysitter."
+            },
+            {
+                "title": "Homer vs. the 18th Amendment",
+                "description": "After Bart inadvertently becomes drunk at a St. Patrick's Day celebration, an old prohibition law banning drinking in Springfield is rediscovered and enforced. Desperate to keep alcohol in the city, Homer takes matters into his own hands."
+            },
+            {
+                "title": "Grade School Confidential",
+                "description": "Bart discovers Principal Skinner and Mrs Krabappel kissing, and it's not long before the whole town knows of their secret affair."
+            },
+            {
+                "title": "The Canine Mutiny",
+                "description": "After he fraudulently obtains a credit card, Bart buys a new dog named Laddie. When the items he purchased are repossessed, he lies that Santa's Little Helper is the dog he bought, and soon misses his pet."
+            },
+            {
+                "title": "The Old Man and the Lisa",
+                "description": "Burns loses his fortune and recruits Lisa to help him get it back."
+            },
+            {
+                "title": "In Marge We Trust ",
+                "description": "Marge becomes a church counselor; Homer discovers his face on a Japanese detergent logo."
+            },
+            {
+                "title": "Homer's Enemy",
+                "description": "Industrious Frank Grimes starts working at the plant and becomes irritated by Homer's laziness; Bart buys a run-down factory for a dollar."
+            },
+            {
+                "title": "The Simpsons Spin-Off Showcase",
+                "description": "Troy McClure presents three spinoffs: \"Chief Wiggins, P.I.\", \"The Love-Matic Grandpa\", and \"The Simpson Family Smile-Time Variety Hour\"."
+            },
+            {
+                "title": "The Secret War of Lisa Simpson ",
+                "description": "After a prank destroys half the town, Bart is shipped away to military school. Lisa, seeking a challenge, decides to enroll with him, but is faced with discrimination as the school's only girl cadet."
+            }
+        ],
+        "season9": [{
+                "title": "The City of New York vs. Homer Simpson",
+                "description": "Homer must travel to New York to get his car back, which is illegally parked at World Trade Center Plaza."
+            },
+            {
+                "title": "The Principal and the Pauper",
+                "description": "At his 20th anniversary celebration as school principal, Principal Skinner is discovered to be an imposter of the real Seymour Skinner."
+            },
+            {
+                "title": "Lisa's Sax",
+                "description": "Homer recounts the story of Bart's first day of school, which corresponds with the story of how Lisa got her saxophone."
+            },
+            {
+                "title": "Treehouse of Horror VIII",
+                "description": "Homer battles mutants after Springfield is annihilated by a neutron bomb; Bart has his DNA mixed with a fly; Marge is revealed to be a witch in colonial Springfield."
+            },
+            {
+                "title": "The Cartridge Family",
+                "description": "After a massive soccer riot, Homer purchases a gun to protect the family."
+            },
+            {
+                "title": "Bart Star",
+                "description": "A damning report on childhood obesity in Springfield leads to the formation of a pee-wee football team. After belittling Ned Flanders, Homer ends up coaching the team, but his favoring of Bart makes him unpopular."
+            },
+            {
+                "title": "The Two Mrs. Nahasapeemapetilons",
+                "description": "Apu receives a letter from his mother stating that it's time for him fulfilled his arranged marriage obligation, he pretends Marge is his wife."
+            },
+            {
+                "title": "Lisa the Skeptic",
+                "description": "Townspeople believe Lisa has unearthed the fossiled remains of a angel."
+            },
+            {
+                "title": "Realty Bites",
+                "description": "Marge becomes a real-estate agent."
+            },
+            {
+                "title": "Miracle on Evergreen Terrace",
+                "description": "When Bart accidentally burns down the family's Christmas tree and gifts, he claims that a robber stole everything. As a result, the town gets them a new tree and pitches in to raise funds."
+            },
+            {
+                "title": "All Singing, All Dancing",
+                "description": "Homer is disappointed when the western he rented turns out to be a musical, so the family reminds him of the musical moments in the show's history."
+            },
+            {
+                "title": "Bart Carny",
+                "description": "Bart and Homer befriend two carnies and invite them to stay with them, but the carnies soon swindle the Simpsons out of their house."
+            },
+            {
+                "title": "The Joy of Sect",
+                "description": "An evil cult called the Movementarians brainwashes the citizens of Springfield and it's up to Marge to get them back."
+            },
+            {
+                "title": "Das Bus",
+                "description": "While the kids become stranded on a desert island, Homer attempts to cash in on the Internet."
+            },
+            {
+                "title": "The Last Temptation of Krust",
+                "description": "After a disastrous performance, Krusty changes his image and becomes an edgy stand-up."
+            },
+            {
+                "title": "Dumbbell Indemnity",
+                "description": "Homer and Moe attempt insurance fraud so that Moe can support his new girlfriend. When Homer ends up in jail, Moe has to decide whether or not to come forward."
+            },
+            {
+                "title": "Lisa the Simpson",
+                "description": "Lisa fears she is losing her intelligence when she learns about the fabled Simpson gene. Meanwhile, Jasper freezes himself in the Kwik-E-Mart freezer."
+            },
+            {
+                "title": "This Little Wiggy",
+                "description": "Bart is reluctant to hang out with Ralph Wiggum, until he gains access to Chief Wiggum's master key to the city."
+            },
+            {
+                "title": "Simpson Tide",
+                "description": "Homer causes an international incident after he joins the Naval reserves."
+            },
+            {
+                "title": "The Trouble with Trillions",
+                "description": "Homer is forced to spy for the IRS after an audit. But when he is asked to retrieve a trillion dollar bill from Mr. Burns, he switches sides and the two flee to Cuba for refuge."
+            },
+            {
+                "title": "Girly Edition",
+                "description": "Bart and Lisa become locked in competition when they anchor a children's news program. Meanwhile, Homer adopts a helper monkey."
+            },
+            {
+                "title": "Trash of the Titans ",
+                "description": "Homer becomes the sanitation commissioner for Springfield. His ineptitude pollutes the town and leads to a drastic solution."
+            },
+            {
+                "title": "King of the Hill",
+                "description": "After humiliating Bart at a church picnic, Homer resolves to get in shape. Soon, he is contacted by an energy bar company that wants him to climb a mountain as a promotion."
+            },
+            {
+                "title": "Lost Our Lisa",
+                "description": "Lisa gets lost after she tries to take a bus to a museum."
+            },
+            {
+                "title": "Natural Born Kissers",
+                "description": "Homer and Marge's attempt to spice up their marriage leads to the couple being chased naked through Springfield."
+            }
+        ],
+        "season10": [{
+                "title": "Lard of the Dance",
+                "description": "Homer and Bart try to start their own grease business; Lisa organizes a school dance."
+            },
+            {
+                "title": "The Wizard of Evergreen Terrace",
+                "description": "Homer's midlife crisis leads to a disastrous attempt at being an inventor."
+            },
+            {
+                "title": "Bart the Mother",
+                "description": "When Bart accidentally kills a mother bird, he tries to make amends by raising the eggs."
+            },
+            {
+                "title": "Treehouse of Horror IX",
+                "description": "Homer receives an evil hair transplant; Bart and Lisa get trapped in an Itchy and Scratchy cartoon; Maggie is revealed to be an alien."
+            },
+            {
+                "title": "When You Dish Upon a Star",
+                "description": "Homer becomes a Hollywood insider when he befriends Alec Baldwin and Kim Basinger."
+            },
+            {
+                "title": "D'oh-in' in the Wind",
+                "description": "Homer becomes a hippie after a revelation about his middle name."
+            },
+            {
+                "title": "Lisa Gets an 'A'",
+                "description": "When Lisa cheats on a test, she has a moral crisis when her perfect score qualifies the school for grant money; Homer adopts a lobster as a pet."
+            },
+            {
+                "title": "Homer Simpson in: 'Kidney Trouble'",
+                "description": "Homer gets cold feet before a transplant operation which could save Grampa's life."
+            },
+            {
+                "title": "Mayored to the Mob",
+                "description": "Homer deals with corruption when he becomes Mayor Quimby's bodyguard."
+            },
+            {
+                "title": "Viva Ned Flanders",
+                "description": "When Homer takes Ned to Las Vegas in an attempt to get him to loosen up, the two end up drunkenly marrying a pair of cocktail waitresses."
+            },
+            {
+                "title": "Wild Barts Can't Be Broken",
+                "description": "The children of Springfield revolt after a curfew is enforced."
+            },
+            {
+                "title": "Sunday, Cruddy Sunday",
+                "description": "Homer and his friends head to the Super Bowl, but are forced to sneak in when they discover their tickets are counterfeit."
+            },
+            {
+                "title": "Homer to the Max",
+                "description": "Homer changes his name when a dimwitted TV character named Homer Simpson becomes an overnight sensation."
+            },
+            {
+                "title": "I'm with Cupid",
+                "description": " Homer The husbands of Springfield plot revenge after Apu outshines them on Valentine's Day."
+            },
+            {
+                "title": "Marge Simpson in 'Screaming Yellow Honkers'",
+                "description": "Marge's new SUV gives her a potent case of road rage."
+            },
+            {
+                "title": "Make Room for Lisa",
+                "description": "Lisa feels that her relationship with her father will never be close, and she develops stress-induced stomach pains; Marge inadvertently knocks out Milhouse."
+            },
+            {
+                "title": "Maximum Homerdrive",
+                "description": "Homer completes a cross country delivery for a trucker who dies before completing it, and takes Bart along for the ride. Meanwhile, Marge and Lisa experience problems with a novelty doorbell they purchase."
+            },
+            {
+                "title": "Simpsons Bible Stories",
+                "description": "Three famous religious stories are retold Simpsons style as the family nods off at church."
+            },
+            {
+                "title": "Mom and Pop Art",
+                "description": "Homer becomes the talk of the Springfield art community when a failed barbecue pit he worked on is mistaken for an art project."
+            },
+            {
+                "title": "The Old Man and the 'C' Student",
+                "description": "Bart is punished with community service at the Retirement Castle after he ruins Springfield's chances of hosting the Olympics."
+            },
+            {
+                "title": "Monty Can't Buy Me Love",
+                "description": "When a wealthy man moves to Springfield, Mr. Burns begins to feel that he is losing his grasp on the citizens and decides to enlist the help of Homer."
+            },
+            {
+                "title": "They Saved Lisa's Brain ",
+                "description": "Lisa is invited to join the Springfield chapter of MENSA and after Mayor Quimby flees, the group ends up running the city. Meanwhile, Homer poses for a series of erotic photos."
+            },
+            {
+                "title": "Thirty Minutes Over Tokyo",
+                "description": "The Simpsons must perform on a Japanese game show after Homer loses their money on a vacation."
+            }
+        ],
+        "season11": [{
+                "title": "Beyond Blunderdome",
+                "description": "Convinced he's the only man with guts to tell him the truth, Mel Gibson insists Homer accompanies him in Hollywood to help fix his newest film project."
+            },
+            {
+                "title": "Brother's Little Helper",
+                "description": "Bart is put on medication to control his behavior, but the pills cause him to become paranoid and insane."
+            },
+            {
+                "title": "Guess Who's Coming to Criticize Dinner?",
+                "description": "Homer's negative reviews as a food critic puts his life in danger. Fortunately he has Lisa fighting for him."
+            },
+            {
+                "title": "Treehouse of Horror X",
+                "description": "The Simpsons attempt to cover up their accidental murder of Ned Flanders. Bart and Lisa acquire super powers. An electronic apocalypse threatens Springfield."
+            },
+            {
+                "title": "E-I-E-I-(Annoyed Grunt)",
+                "description": "Homer cowards out of a pistol-duel and hides out with the rest of the family on a country farm."
+            },
+            {
+                "title": "Hello Gutter, Hello Fadder",
+                "description": "Homer becomes a minor celebrity around Springfield after bowling a perfect game."
+            },
+            {
+                "title": "Eight Misbehavin'",
+                "description": "Apu struggles with fatherhood after Manjula gives birth to octuplets."
+            },
+            {
+                "title": "Take My Wife, Sleaze",
+                "description": "Homer's attempt at creating a motorcycle gang attracts a real gang, who kidnap Marge."
+            },
+            {
+                "title": "Grift of the Magi",
+                "description": "A toy company purchases Springfield Elementary and uses the student body as a focus group for their new Christmas toy Funzo."
+            },
+            {
+                "title": "Little Big Mom",
+                "description": "Lisa finds out how rough Marge has it when her mom is in traction and she becomes the woman of the house. Homer and Bart's antics get her so worked up she conspires to teach them a lesson."
+            },
+            {
+                "title": "Faith Off",
+                "description": "Bart is led to believe he has special healing powers after a tent revival."
+            },
+            {
+                "title": "The Mansion Family",
+                "description": "Homer receives responsibility for Mr. Burns' mansion when he is on leave and takes Burns' yacht to international waters to have a party."
+            },
+            {
+                "title": "Saddlesore Galactica",
+                "description": "The Simpsons get an abused horse and make him a contender in horse racing. Homer finds out a secret conspiracy about jockeys. Lisa tries to reach President Clinton when the results of a school band talent competition seem tainted."
+            },
+            {
+                "title": "Alone Again, Natura-Diddly",
+                "description": "Ned deals with his grief after Maude's untimely death."
+            },
+            {
+                "title": "Missionary: Impossible",
+                "description": "When Homer is wanted dead for reneging on a 10,000 dollar pledge to PBS, Reverend Lovejoy sets him up for missionary work in the South Pacific until the heat dies down."
+            },
+            {
+                "title": "Pygmoelian",
+                "description": "Plastic surgery not only transforms Moe the Bartender from ugly to hunky, it helps gets him a job on a hit daytime drama."
+            },
+            {
+                "title": "Bart to the Future",
+                "description": "Bart gets a glimpse of the future while the family is on vacation at an Indian casino."
+            },
+            {
+                "title": "Days of Wine and D'oh'ses",
+                "description": "Homer doesn't like it when Barney quits drinking; Bart and Lisa get into trouble when they enter a photo contest for the new phone book cover."
+            },
+            {
+                "title": "Kill the Alligator and Run",
+                "description": "Fearing he only has three years to live, Homer moves the family to Florida so he can live a better life, until they become wanted criminals after injuring a famous alligator."
+            },
+            {
+                "title": "Last Tap Dance in Springfield",
+                "description": "Lisa has difficulties learning to tap dance; Bart and Milhouse ditch summer camp to spend a week living in the mall."
+            },
+            {
+                "title": "It's a Mad, Mad, Mad, Mad Marge",
+                "description": "Everybody loves the new Simpsons' house guest Becky. Except Marge, who thinks Becky wants to kill her."
+            },
+            {
+                "title": "Behind the Laughter",
+                "description": "Fans are invited to take a behind-the-scenes look at \"The Simpsons\", revisiting some of the most memorable experiences the family has been through."
+            }
+        ],
+        "season12": [{
+                "title": "Treehouse of Horror XI",
+                "description": "Homer must do one good deed to get into Heaven; Bart and Lisa encounter a witch in a gingerbread house; Super-intelligent dolphins strike back at humanity."
+            },
+            {
+                "title": "A Tale of Two Springfields",
+                "description": "Springfield is split in two when Homer revolts because his area code is changed; the new town walls itself off from the neighbors."
+            },
+            {
+                "title": "Insane Clown Poppy",
+                "description": "After he learns he has a daughter, Krusty turns to Homer for parenting advice."
+            },
+            {
+                "title": "Lisa the Treehugger",
+                "description": "Lisa's crush on an environmental activist inspires her to live in a tree threatened by loggers."
+            },
+            {
+                "title": "Homer vs. Dignity",
+                "description": "Desperate for money, Homer accepts payment from Mr. Burns in exchange for humiliating himself."
+            },
+            {
+                "title": "The Computer Wore Menace Shoes",
+                "description": "Homer's gossip website becomes a huge hit, but when his information runs out he resorts to making up news."
+            },
+            {
+                "title": "The Great Money Caper",
+                "description": "The whole town of Springfield conspires to teach Homer and Bart a lesson after the pair begin running confidence scams."
+            },
+            {
+                "title": "Skinner's Sense of Snow",
+                "description": "A freak blizzard traps the students of Springfield Elementary inside their school. Their lives at stake, they are at the mercy of the rescue efforts of a woozy Homer and Ned."
+            },
+            {
+                "title": "Homr",
+                "description": "An X-ray reveals a crayon lodged in Homer's brain. After the crayon is removed, Homer experiences a sudden surge in intelligence, making him closer to Lisa and isolated from his friends."
+            },
+            {
+                "title": "Pokey Mom",
+                "description": "Marge befriends a convict with an artistic streak. Meanwhile, Homer battles the chiropractic industry after he creates a miracle back pain cure."
+            },
+            {
+                "title": "Worst Episode Ever",
+                "description": "Bart and Milhouse are left in charge of the comic book store after Comic Book Guy is hospitalized."
+            },
+            {
+                "title": "Tennis the Menace",
+                "description": "Homer installs a tennis court in the backyard, but his lousy playing creates a rift in the family."
+            },
+            {
+                "title": "Day of the Jackanapes",
+                "description": "Sideshow Bob returns with a plan to brainwash Bart and kill Krusty."
+            },
+            {
+                "title": "New Kids on the Blecch",
+                "description": "A music producer offers Bart and his friends a chance to participate in an up-and-coming boyband, but the boys are not up to it after making a discovery."
+            },
+            {
+                "title": "Hungry Hungry Homer",
+                "description": "Homer is forced to go on a hunger strike by the Springfield Isotopes after uncovering a secret plan to have the baseball team moved to New Mexico."
+            },
+            {
+                "title": "Bye Bye Nerdy",
+                "description": "Problems with a bully lead Lisa to examine just what makes bullies aggressive. Meanwhile, Homer gets into the baby-proofing business."
+            },
+            {
+                "title": "Simpson Safari",
+                "description": "The Simpsons win a trip to Africa after Homer finds a golden animal cracker from the 60's in the loft."
+            },
+            {
+                "title": "Trilogy of Error",
+                "description": "Homer's rush to the hospital to re-attach his severed thumb, Lisa's rush to school to win the science fair, and Bart's run-in with an illegal fireworks scheme interconnect from their point of view."
+            },
+            {
+                "title": "I'm Goin' to Praiseland",
+                "description": "With Homer's help, Flanders tries to establish a Christian theme park based on drawings in Maude's sketch book."
+            },
+            {
+                "title": "Children of a Lesser Clod",
+                "description": "After a debilitating injury forces him to stay indoors, Homer begins a daycare center."
+            },
+            {
+                "title": "Simpsons Tall Tales",
+                "description": "Everybody loves the new Simpsons' house guest Becky. Except Marge, who thinks Becky wants to kill her."
+            },
+            {
+                "title": "Behind the Laughter",
+                "description": "A hobo tells the Simpsons tall tales on a train ride to Delaware. In the first story, Homer is outcast from society as Paul Bunyan. Then, Lisa travels the country planting trees as Connie Appleseed. Finally, Bart and Nelson raft down the Mississippi as Tom Sawyer and Huck Finn."
+            }
+        ],
+        "season13": [{
+                "title": "Treehouse of Horror XII",
+                "description": "A gypsy puts a curse on Homer; The Simpsons' new automated house malfunctions and tries to kill Homer; Bart and Lisa attend a school for wizards."
+            },
+            {
+                "title": "The Parent Rap",
+                "description": "After Bart takes a joyride in a police car, a judge orders him to be tethered to Homer at all times."
+            },
+            {
+                "title": "Homer the Moe",
+                "description": "Homer and his friends are forced to drink in the Simpsons' garage after Moe the Bartender renovates his shady bar into a hipster hangout."
+            },
+            {
+                "title": "A Hunka Hunka Burns in Love",
+                "description": "Mr. Burns falls in love with a younger woman and recruits Homer to help him impress her."
+            },
+            {
+                "title": "The Blunder Years",
+                "description": "A hypnotist uncovers a traumatic experience from Homer's childhood."
+            },
+            {
+                "title": "She of Little Faith",
+                "description": "Homer and Bart collaborate on a model rocket which destroys The First Church of Springfield. To raise money for repairs, the church sells advertising space, outraging Lisa - who becomes a Buddhist, with the help of guest star Richard Gere."
+            },
+            {
+                "title": "Brawl in the Family",
+                "description": "A social services officer brings unity to the Simpson family, but their newfound happiness is threatened when the cocktail waitress Homer married in Vegas shows up at their door."
+            },
+            {
+                "title": "Sweets and Sour Marge",
+                "description": "Marge rallies for a ban on sugar after Springfield is declared America's fattest city."
+            },
+            {
+                "title": "Jaws Wired Shut",
+                "description": "Marge can't deal with the quiet after Homer has his jaws wired shut."
+            },
+            {
+                "title": "Half-Decent Proposal",
+                "description": "Marge's high school sweetheart Artie Ziff returns and offers Homer a million dollars to spend a weekend with Marge."
+            },
+            {
+                "title": "The Bart Wants What It Wants",
+                "description": "Bart breaks up with his new girlfriend Greta, but gets jealous when she begins dating Milhouse."
+            },
+            {
+                "title": "The Lastest Gun in the West",
+                "description": "Bart meets a retired cowboy movie star and convinces him to make a comeback on The Krusty the Clown Show."
+            },
+            {
+                "title": "The Old Man and the Key",
+                "description": "Abe gets his driver's license back to impress a new woman at the retirement home."
+            },
+            {
+                "title": "Tales from the Public Domain",
+                "description": "Homer reads three stories from an overdue library book; with Homer as Odysseus trying to get home to Ithaca, Lisa as Joan of Arc leading the French to Victory and Bart as Hamlet avenging his father's death."
+            },
+            {
+                "title": "Blame It on Lisa",
+                "description": "Lisa sponsors an orphan in Brazil, and when he goes missing she convinces the family to go to Brazil to find him. While there, Homer is kidnapped."
+            },
+            {
+                "title": "Weekend at Burnsie's",
+                "description": "After a traumatizing eye injury, Homer becomes a habitual user of medical marijuana."
+            },
+            {
+                "title": "Gump Roast",
+                "description": "In this clip show, the citizens of Springfield honor Homer Simpsons with a Roast, but the festivities take a turn for the worst when aliens crash it."
+            },
+            {
+                "title": "I Am Furious Yellow",
+                "description": "Bart's comic about Homer becomes a hit on-line, prompting Homer to attempt to control his anger."
+            },
+            {
+                "title": "The Sweetest Apu",
+                "description": "Apu's marriage is on the rocks after Manjula finds out he cheated on her."
+            },
+            {
+                "title": "Little Girl in the Big Ten",
+                "description": "Lisa pretends to be a college student when she befriends two college girls; Bart is forced to live in a plastic bubble after being bit by a mosquito."
+            },
+            {
+                "title": "The Frying Game",
+                "description": "Homer and Marge find themselves on death row after they are framed for murder."
+            },
+            {
+                "title": "Papa's Got a Brand New Badge",
+                "description": "Homer becomes chief of police after a scandal forces Wiggum out."
+            }
+        ],
+        "season14": [{
+                "title": "Treehouse of Horror XIII",
+                "description": " Homer clones himself with a magic hammock; Zombie cowboys come back from the dead after Springfield bans guns; The Simpsons family take a vacation on an island where Dr. Hibbert can turn people into animals."
+            },
+            {
+                "title": "How I Spent My Strummer Vacation",
+                "description": "When Homer is secretly videotaped complaining about his family in a taxi, they send him off to a rock and roll fantasy camp so he can try to live his dream."
+            },
+            {
+                "title": "Bart vs. Lisa vs. 3rd Grade",
+                "description": "Bart and Lisa are respectively held back and moved forward one grade, putting them in the same class."
+            },
+            {
+                "title": "Large Marge",
+                "description": "Marge accidentally gets breast implants."
+            },
+            {
+                "title": "Helter Shelter",
+                "description": "The Simpsons family must participate in a reality television show in which they try to live in the same way that the families did in the 1800s."
+            },
+            {
+                "title": "The Great Louse Detective",
+                "description": "Homer has to use Sideshow Bob in order to track down a potential assassin."
+            },
+            {
+                "title": "Special Edna",
+                "description": "After Skinner once again has let Mrs. Krabappel down, Bart takes her to the cinema. To cheer her up, Bart nominates Krabappel for the 'teacher of the year' award. The nominations is accepted, and soon the Simpsons family and Mrs. Krabappel are going to the award ceremony in Orlando, Florida, where Skinner tries to get back Krabappel by asking her to marry him."
+            },
+            {
+                "title": "The Dad Who Knew Too Little",
+                "description": "Homer hires a private detective to learn more about Lisa."
+            },
+            {
+                "title": "The Strong Arms of the Ma",
+                "description": "Marge takes up body-building to boost her self-esteem after being mugged at the Kwik-E-Mart."
+            },
+            {
+                "title": "Pray Anything",
+                "description": "Homer turns to religion to help him get what he wants, and is soon awarded the church in an injury settlement. Homer then turns the church into his personal party pad, and Reverend Lovejoy leaves Springfield to wallow in its hedonism."
+            },
+            {
+                "title": "Barting Over",
+                "description": "After finding out Homer squandered his money from a baby commercial, Bart moves out into a loft, and meets skateboarding legend Tony Hawk."
+            },
+            {
+                "title": "I'm Spelling as Fast as I Can",
+                "description": "Lisa participates in the Spellympics, but Homer is busy traveling cross-country as Krusty Burger test-markets a new sandwich. Lisa is confident that she will win, until she learns that the contest is rigged against her."
+            },
+            {
+                "title": "A Star Is Born Again",
+                "description": "Ned Flanders starts dating a famous movie star, but has difficulties with the tabloids following them everywhere."
+            },
+            {
+                "title": "Mr. Spritz Goes to Washington",
+                "description": "The family makes Krusty run for Congress because of air traffic being redirected to fly dangerously close to their house."
+            },
+            {
+                "title": "C.E.D'oh",
+                "description": "Homer takes over the power plant after tricking Mr. Burns into making him the official owner of the power plant."
+            },
+            {
+                "title": "'Scuse Me While I Miss the Sky",
+                "description": "Lisa becomes interested in astronomy and starts fighting the light pollution which is preventing her from being able to enjoy her new hobby."
+            },
+            {
+                "title": "Three Gays of the Condo",
+                "description": "When Homer finds an old note revealing Marge only married him because she was pregnant with Bart, he moves into a condo with two gay guys."
+            },
+            {
+                "title": "Dude, Where's My Ranch?",
+                "description": "Homer writes a Christmas carol called \"Everybody Hates Ned Flanders\", which soon becomes so popular that the family decides to leave town for a while."
+            },
+            {
+                "title": "Old Yeller-Belly",
+                "description": "Homer throws out Santa's Little Helper for not saving him from a fire, but soon the dog becomes Duff's new mascot."
+            },
+            {
+                "title": "Brake My Wife, Please",
+                "description": "Because of Homer losing his driver's license, Marge has to drive everyone everywhere, which is so stressful for her that she accidentally runs over Homer leading to the two seeing a marriage counselor."
+            },
+            {
+                "title": "The Bart of War",
+                "description": "Bart and Milhouse are forced into community service after destroying Flanders' memorial and join separate community groups, pitting themselves against each other."
+            },
+            {
+                "title": "Moe Baby Blues",
+                "description": "After saving Maggie's life, Moe develops a special bond with her, much to Homer's dismay."
+            }
+        ],
+        "season15": [{
+                "title": "Treehouse of Horror XIV",
+                "description": "First, Homer kills the Grim Reaper and takes his place in Reaper Madness. Then, Professor Frink's father is revived, only to kill people and steal their organs in Frinkenstein. Finally, Bart and Milhouse get a stop watch that can stop time in Stop the World, I Want To Goof Off."
+            },
+            {
+                "title": "My Mother the Carjacker",
+                "description": "Homer's mother returns to Springfield, and the city pardons her from the charges against her. Mr Burns is furious about this and makes a plan to get Mona Simpson in prison."
+            },
+            {
+                "title": "The President Wore Pearls",
+                "description": "Lisa feuds with Principal Skinner after being elected school president."
+            },
+            {
+                "title": "The Regina Monologues",
+                "description": "Prime minister Tony Blair welcomes the Simpsons to England where they run into author J.K. Rowling and actor Ian McKellen."
+            },
+            {
+                "title": "The Fat and the Furriest",
+                "description": "At the dump Homer is videotaped while being attacked by a bear. The town regards him a coward, so Homer decides to strike back at the bear."
+            },
+            {
+                "title": "Today, I Am a Clown",
+                "description": "Krusty decides to do what he never did when he was thirteen years old - have a Bar Mitzvah."
+            },
+            {
+                "title": "'Tis the Fifteenth Season",
+                "description": "After spending all his money on an expensive gift for himself, and the family thinking he should be less of an egoist, Homer decides to change his ways."
+            },
+            {
+                "title": "Marge vs. Singles, Seniors, Childless Couples and Teens and Gays",
+                "description": "A concert for babies ends in a riot, so the childless adults of Springfield gather to make the town less child-friendly."
+            },
+            {
+                "title": "I, (Annoyed Grunt)-Bot",
+                "description": "Homer pretends to be a robot and competes in Robot Wars to win Bart's affection; Lisa has cat trouble."
+            },
+            {
+                "title": "Diatribe of a Mad Housewife",
+                "description": "Marge is inspired to write a novel, but the storyline of the book (a fat, mean husband, and a handsome, sweet neighbor) makes Homer jealous."
+            },
+            {
+                "title": "Margical History Tour",
+                "description": "Marge tells Lisa, Bart and Millhouse three history stories because the library doesn't have any."
+            },
+            {
+                "title": "Milhouse Doesn't Live Here Anymore",
+                "description": "Milhouse moves to Capital City, and therefore Lisa and Bart become best friends."
+            },
+            {
+                "title": "Smart & Smarter",
+                "description": "When Maggie is revealed to have an IQ of 167, Lisa is no longer the genius of the family, causing a rivalry between the sisters."
+            },
+            {
+                "title": "The Ziff Who Came to Dinner",
+                "description": "Artie Ziff is discovered hiding out in the Simpsons' attic."
+            },
+            {
+                "title": "Co-Dependent's Day",
+                "description": "Marge takes up heavy drinking to spend more time with Homer. Bart and Lisa confront a famous movie director about the drop in quality his films have taken."
+            },
+            {
+                "title": "The Wandering Juvie",
+                "description": "After playing a prank on the whole town, Bart is sentenced to six months of juvenile detention. There he meets Gina, who forces Bart to escape with her."
+            },
+            {
+                "title": "My Big Fat Geek Wedding",
+                "description": "Mrs. Krabapel falls for Comic Book Guy and they plan a Star Trek like wedding. Principal Skinner plans to prevent it."
+            },
+            {
+                "title": "Catch 'Em If You Can",
+                "description": "Homer and Marge try to have a vacation without the kids but Bart and Lisa follow them everywhere they go."
+            },
+            {
+                "title": "Simple Simpson",
+                "description": "Homer becomes a costumed vigilante who uses pies for weapons after witnessing Lisa get humiliated at a competition at the state fair."
+            },
+            {
+                "title": "The Way We Weren't",
+                "description": "Marge and Homer find out that they actually kissed each other at age 10 without knowing they were each other's first kisses, and tell the story about this."
+            },
+            {
+                "title": "Bart-Mangled Banner",
+                "description": "An accidental photo showing Bart mooning the American flag makes the Simpsons the most hated family in town."
+            },
+            {
+                "title": "Fraudcast News",
+                "description": "After Mr. Burns is erroneously reported as dead, he buys all of he media outlets in order to prevent them from writing scathing articles about him."
+            }
+        ]
+    }
+}

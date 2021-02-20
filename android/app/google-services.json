@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680442696164",
+    "project_id": "ultra-app-3000",
+    "storage_bucket": "ultra-app-3000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680442696164:android:a30d67a9fc22075bf777f1",
+        "android_client_info": {
+          "package_name": "com.ultra.ultraapp3000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680442696164-89rjm8lvliqrlpkn57c7icpm9ihhh78m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4oO19AFM4cT4G1iU0HLMmJKu1qO4-PT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680442696164-89rjm8lvliqrlpkn57c7icpm9ihhh78m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
