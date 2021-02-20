@@ -57,6 +57,7 @@ class AppController with ChangeNotifier {
         goButton = 'go';
         notifyListeners();
       });
+      
       season = next(firstSeasons, lastSeasons).toString();
       int ep = next(0, json['simpsons']['season$season'].length);
       title = json['simpsons']['season$season'][ep]['title'];
