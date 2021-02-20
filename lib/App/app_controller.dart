@@ -1,6 +1,7 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
+import 'package:vibration/vibration.dart';
 
 class AppController with ChangeNotifier {
   int selectedColumn = 0;
@@ -50,6 +51,7 @@ class AppController with ChangeNotifier {
     if (!isLoading) {
       goButton = 'goPressed';
       notifyListeners();
+      Vibration.vibrate(duration: 300);
 
       Future.delayed(Duration(milliseconds: 200)).then((value) {
         goButton = 'go';
