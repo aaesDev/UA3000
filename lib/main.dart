@@ -8,6 +8,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 import 'package:ultraapp3000/App/AdMob/ad_mob_container.dart';
+import 'package:ultraapp3000/App/color_plate.dart';
 
 import 'App/UI/main_container.dart';
 import 'App/app_controller.dart';
@@ -21,8 +22,11 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setSystemUIOverlayStyle(
-        SystemUiOverlayStyle(systemNavigationBarColor: Colors.black));
+    SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
+      systemNavigationBarColor: Colors.black,
+      statusBarColor: ColorPlate.background,
+      statusBarBrightness: Brightness.light,
+    ));
     SystemChrome.setPreferredOrientations(
         [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
     SystemChrome.setEnabledSystemUIOverlays([SystemUiOverlay.bottom]);
@@ -80,8 +84,9 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: ColorPlate.background,
       body: SafeArea(
-              child: FutureBuilder(
+        child: FutureBuilder(
           future: future,
           builder: (context, snapshot) {
             var data = json.decode(snapshot.data.toString());
@@ -119,7 +124,8 @@ class _MyHomePageState extends State<MyHomePage> {
                         setState(() {
                           showSplash = false;
                         });
-                        Future.delayed(Duration(milliseconds: 500)).then((value) {
+                        Future.delayed(Duration(milliseconds: 500))
+                            .then((value) {
                           control.addShodow();
                         });
                         Future.delayed(Duration(milliseconds: 1500))
