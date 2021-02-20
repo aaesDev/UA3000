@@ -21,11 +21,10 @@ class _ResultContainerState extends State<ResultContainer> {
         crossAxisAlignment: CrossAxisAlignment.stretch,
         children: [
           Container(
-            height: 50,
             child: Text(
               controller.title,
               style: TextStyle(
-                fontSize: 30,
+                fontSize: 25,
                 fontWeight: FontWeight.bold,
                 color: ColorPlate.yellow,
               ),
