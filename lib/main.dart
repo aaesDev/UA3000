@@ -80,60 +80,62 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: FutureBuilder(
-        future: future,
-        builder: (context, snapshot) {
-          var data = json.decode(snapshot.data.toString());
-          return Container(
-            width: double.infinity,
-            child: Stack(
-              children: [
-                Consumer<AppController>(
-                  builder: (context, controller, _) {
-                    if (controller.showImage) {
-                      return Container(width: double.infinity, child: image);
-                    } else {
-                      return Provider<Map<String, dynamic>>.value(
-                        value: data ?? {"": ''},
-                        child: Column(
-                          children: [
-                            Expanded(
-                              child: MainContainer(),
-                            ),
-                            AdMobContainer(
-                              bannerSize: bannerSize,
-                            ),
-                          ],
-                        ),
-                      );
-                    }
-                  },
-                ),
-                if (showSplash)
-                  SplashScreen.callback(
-                    onError: (_, __) {},
-                    name: 'assets/splash.flr',
-                    fit: BoxFit.cover,
-                    onSuccess: (_) {
-                      setState(() {
-                        showSplash = false;
-                      });
-                      Future.delayed(Duration(milliseconds: 500)).then((value) {
-                        control.addShodow();
-                      });
-                      Future.delayed(Duration(milliseconds: 1500))
-                          .then((value) {
-                        control.addDetails();
-                      });
+      body: SafeArea(
+              child: FutureBuilder(
+          future: future,
+          builder: (context, snapshot) {
+            var data = json.decode(snapshot.data.toString());
+            return Container(
+              width: double.infinity,
+              child: Stack(
+                children: [
+                  Consumer<AppController>(
+                    builder: (context, controller, _) {
+                      if (controller.showImage) {
+                        return Container(width: double.infinity, child: image);
+                      } else {
+                        return Provider<Map<String, dynamic>>.value(
+                          value: data ?? {"": ''},
+                          child: Column(
+                            children: [
+                              Expanded(
+                                child: MainContainer(),
+                              ),
+                              AdMobContainer(
+                                bannerSize: bannerSize,
+                              ),
+                            ],
+                          ),
+                        );
+                      }
                     },
-                    startAnimation: 'intro',
-                    backgroundColor: Colors.white.withAlpha(0),
-                    until: () => Future.delayed(Duration.zero),
                   ),
-              ],
-            ),
-          );
-        },
+                  if (showSplash)
+                    SplashScreen.callback(
+                      onError: (_, __) {},
+                      name: 'assets/splash.flr',
+                      fit: BoxFit.cover,
+                      onSuccess: (_) {
+                        setState(() {
+                          showSplash = false;
+                        });
+                        Future.delayed(Duration(milliseconds: 500)).then((value) {
+                          control.addShodow();
+                        });
+                        Future.delayed(Duration(milliseconds: 1500))
+                            .then((value) {
+                          control.addDetails();
+                        });
+                      },
+                      startAnimation: 'intro',
+                      backgroundColor: Colors.white.withAlpha(0),
+                      until: () => Future.delayed(Duration.zero),
+                    ),
+                ],
+              ),
+            );
+          },
+        ),
       ),
     );
   }

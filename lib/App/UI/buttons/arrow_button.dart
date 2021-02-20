@@ -12,7 +12,7 @@ class ArrowButton extends StatelessWidget {
     return Expanded(
       child: GestureDetector(
         onTap: (){
-          Vibration.vibrate();
+          Vibration.vibrate(duration: 300);
           onTap();},
         child: Container(child: Image.asset('assets/images/$icon.png')),
       ),
